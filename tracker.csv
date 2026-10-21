@@ -1,0 +1,4 @@
+problem,link,pattern,difficulty,first_solved,confidence,last_reviewed,next_review
+Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,sliding_window,medium,2026-10-21,3,2026-10-21,2026-10-22
+Number of Islands,https://leetcode.com/problems/number-of-islands/,dfs,medium,2026-10-14,4,2026-10-14,2026-10-21
+Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,binary_search_answer,medium,2026-10-01,2,2026-10-08,2026-10-15
